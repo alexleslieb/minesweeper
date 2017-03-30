@@ -1,0 +1,7 @@
+/Screenshots
+/Minesweeper
+/Install
+*.class
+App.exe.manifest
+manifest.txt
+*.ctxt
